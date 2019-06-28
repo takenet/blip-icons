@@ -1,29 +1,24 @@
 <template>
   <div class="image-catalog">
-    <div id="svg-browser">
-      <p>SVG files</p>
-      <div id="svg-browser" class="image-browser">
-        <svg-container
-          v-for="(svg, index) in svgs"
-          v-once
-          :key="index"
-          :originalPath="svg.originalPath"
-          :path="svg.path"/>
-      </div>
+    <h1>SVG files</h1>
+    <div id="svg-browser" class="image-browser">
+      <svg-container
+        v-for="(svg, index) in svgs"
+        v-once
+        :key="index"
+        :originalPath="svg.originalPath"
+        :path="svg.path"/>
     </div>
 
-    <div id="png-browser">
-      <p>PNG files</p>
-      <div id="png-browser" class="image-browser">
-        <image-container
-          v-once
-          v-for="(png, index) in pngs"
-          :key="index"
-          :originalPath="png.originalPath"
-          :path="png.path"/>
-      </div>
+    <h1>PNG files</h1>
+    <div id="png-browser" class="image-browser">
+      <image-container
+        v-once
+        v-for="(png, index) in pngs"
+        :key="index"
+        :originalPath="png.originalPath"
+        :path="png.path"/>
     </div>
-
   </div>
 </template>
 

@@ -3,34 +3,65 @@
     <div class="wrapper">
       <nav>
         <ul>
-          <li><a @click="changeTab('old')">Old</a></li>
-          <li><a @click="changeTab('new')">New</a></li>
+          <li>
+            <a @click="changeTab($options.CatalogTabs.Portal)">
+              {{ $options.CatalogTabs.Portal }}
+            </a>
+          </li>
+
+          <li>
+            <a @click="changeTab($options.CatalogTabs.Desk)">
+              {{ $options.CatalogTabs.Desk }}
+            </a>
+          </li>
+
+          <li>
+            <a @click="changeTab($options.CatalogTabs.Old)">
+              {{ $options.CatalogTabs.Old }}
+            </a>
+          </li>
         </ul>
       </nav>
-      <old-image-catalog id="old-catalog" v-show="currentTab === 'old'"></old-image-catalog>
-      <new-image-catalog id="new-catalog" v-show="currentTab === 'new'"></new-image-catalog>
+      <new-portal-image-catalog
+        class="new-catalog"
+        v-show="currentTab === $options.CatalogTabs.Portal">
+      </new-portal-image-catalog>
+
+      <new-desk-image-catalog
+        class="new-catalog"
+        v-show="currentTab === $options.CatalogTabs.Desk">
+      </new-desk-image-catalog>
+
+      <old-image-catalog
+        class="old-catalog"
+        v-show="currentTab === $options.CatalogTabs.Old">
+      </old-image-catalog>
     </div>
   </div>
 </template>
 
 <script>
 import OldImageCatalog from './components/imageCatalog/OldImageCatalog.vue';
-import NewImageCatalog from './components/imageCatalog/NewImageCatalog.vue';
+import NewPortalImageCatalog from './components/imageCatalog/NewPortalImageCatalog.vue';
+import NewDeskImageCatalog from './components/imageCatalog/NewDeskImageCatalog.vue';
 
-const Catalog = {
-  Old: 'old',
-  New: 'new',
+const CatalogTabs = {
+  Portal: 'Portal',
+  Desk: 'Desk',
+  Old: 'Old',
 };
 
 export default {
   name: 'app',
+  CatalogTabs,
   components: {
     OldImageCatalog,
-    NewImageCatalog,
+    NewPortalImageCatalog,
+    NewDeskImageCatalog,
   },
   data() {
     return {
-      currentTab: Catalog.Old,
+      currentTab: CatalogTabs.Portal,
     };
   },
   methods: {

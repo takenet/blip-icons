@@ -42,13 +42,8 @@ img {
   display: block;
 }
 
-#png-browser img {
+.png-browser img {
   max-width: 120px;
   max-height: 120px;
-}
-
-#svg-browser img {
-  width: 120px;
-  height: 120px;
 }
 </style>
