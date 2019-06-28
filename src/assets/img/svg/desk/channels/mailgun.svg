@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.702908%" y1="86.8988585%" x2="20.2425376%" y2="10.546875%" id="linearGradient-1">
+            <stop stop-color="#18A1D6" offset="0%"></stop>
+            <stop stop-color="#0AC1FF" offset="100%"></stop>
+            <stop stop-color="#0AC1FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mail">
+            <g id="Group-22">
+                <circle id="Oval-4-Copy-15" fill="url(#linearGradient-1)" cx="22.5" cy="22.5" r="22.5"></circle>
+                <g id="Group" transform="translate(9.402985, 13.432836)" stroke="#FFFFFF">
+                    <rect id="Rectangle" stroke-width="2" x="1" y="1" width="24.1940299" height="15.4626866" rx="4"></rect>
+                    <path d="M2.44019958,3.35820896 C2.01391812,3.35820896 1.85619398,3.94566329 2.21000759,4.18386886 L12.2983846,11.150934 C12.8099223,11.5046603 13.4663958,11.5091379 13.9779335,11.150934 L23.9759388,4.19282396 C24.4687202,3.87670905 23.9674132,3.10030217 23.5070292,3.4459689 L13.5081713,10.4040789 C13.2293833,10.5993 13.0477874,10.597509 12.7664416,10.4040789 L2.68147488,3.43432728 C2.60900703,3.38507424 2.52716099,3.35820896 2.44019958,3.35820896 Z" id="Path" stroke-width="0.5" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

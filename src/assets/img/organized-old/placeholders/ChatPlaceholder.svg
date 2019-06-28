@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="491px" height="307px" viewBox="0 0 491 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7-Copy" transform="translate(3.000000, 2.000000)">
+            <g id="Group-6">
+                <path d="M186,44 L429,44 C436.179702,44 442,49.8202983 442,57 L442,115 C442,122.179702 436.179702,128 429,128 L175,128 C173.895431,128 173,127.104569 173,126 L173,57 C173,49.8202983 178.820298,44 186,44 Z" id="Rectangle-5-Copy-9" fill="#E4EDEF" transform="translate(307.500000, 86.000000) scale(-1, 1) translate(-307.500000, -86.000000) "></path>
+                <g id="Bitmap-Copy-7" transform="translate(457.000000, 98.000000)" fill="#DEEFF4">
+                    <g id="Bitmap">
+                        <circle id="Mask" cx="14" cy="14" r="14"></circle>
+                    </g>
+                </g>
+                <path d="M13,0 L82,0 C89.1797017,-1.31888981e-15 95,5.82029825 95,13 L95,25 C95,32.1797017 89.1797017,38 82,38 L2,38 C0.8954305,38 1.3527075e-16,37.1045695 0,36 L0,13 C-8.79259876e-16,5.82029825 5.82029825,1.31888981e-15 13,0 Z" id="Rectangle-5-Copy-5" fill="#E4EDEF" transform="translate(47.500000, 19.000000) scale(1, -1) translate(-47.500000, -19.000000) "></path>
+            </g>
+            <g id="Group-6-Copy" transform="translate(0.000000, 170.000000)">
+                <path d="M310,90 L429,90 C436.179702,90 442,95.8202983 442,103 L442,115 C442,122.179702 436.179702,128 429,128 L299,128 C297.895431,128 297,127.104569 297,126 L297,103 C297,95.8202983 302.820298,90 310,90 Z" id="Rectangle-5-Copy-9" fill="#E4EDEF" transform="translate(369.500000, 109.000000) scale(-1, 1) translate(-369.500000, -109.000000) "></path>
+                <g id="Bitmap-Copy-7" transform="translate(457.000000, 98.000000)" fill="#DEEFF4">
+                    <g id="Bitmap">
+                        <circle id="Mask" cx="14" cy="14" r="14"></circle>
+                    </g>
+                </g>
+                <path d="M13,0 L132,0 C139.179702,-1.31888981e-15 145,5.82029825 145,13 L145,25 C145,32.1797017 139.179702,38 132,38 L2,38 C0.8954305,38 1.3527075e-16,37.1045695 0,36 L0,13 C-8.79259876e-16,5.82029825 5.82029825,1.31888981e-15 13,0 Z" id="Rectangle-5-Copy-5" fill="#E4EDEF" transform="translate(72.500000, 19.000000) scale(1, -1) translate(-72.500000, -19.000000) "></path>
+                <path d="M13,52 L185,52 C192.179702,52 198,57.8202983 198,65 L198,77 C198,84.1797017 192.179702,90 185,90 L2,90 C0.8954305,90 1.3527075e-16,89.1045695 0,88 L1.77635684e-15,65 C8.97096963e-16,57.8202983 5.82029825,52 13,52 Z" id="Rectangle-5-Copy-6" fill="#E4EDEF" transform="translate(99.000000, 71.000000) scale(1, -1) translate(-99.000000, -71.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

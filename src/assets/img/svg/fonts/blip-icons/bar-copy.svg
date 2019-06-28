@@ -1,0 +1,4 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="512px" height="512px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path transform="scale(1, -1) translate(0, -512)" glyph-name="bar-copy" unicode="&#55;" d="M13 295c-7 0-13-5-13-13l0-239c0-7 6-13 13-13l118 0c7 0 13 6 13 13l0 239c0 8-6 13-13 13z m105-239l-92 0 0 214 92 0z m66 443c0 7 6 13 13 13l118 0c7 0 13-6 13-13l0-456c0-7-6-13-13-13l-118 0c-7 0-13 6-13 13z m26-13l0-430 92 0 0 430z m289-456l0 0-118 0c-7 0-13 6-13 13l0 307c0 7 6 13 13 13l118 0c7 0 13-6 13-13l0-307c0-7-6-13-13-13z m-105 307l0-281 92 0 0 281z"/>
+</svg>

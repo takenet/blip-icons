@@ -1,0 +1,4 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="512px" height="512px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path transform="scale(1, -1) translate(0, -512)" glyph-name="bullet-down" unicode="&#98;" d="M234 148l-193 193c-12 12-12 32 0 44 12 13 32 13 45 0l170-170 170 170c13 13 32 13 45 0 12-12 12-32 0-44l-193-193c-6-6-14-9-22-9-8 0-16 3-22 9z"/>
+</svg>

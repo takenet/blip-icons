@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>List</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="2.5" cy="2.5" r="2.5"></circle>
+        <circle id="path-2" cx="2.5" cy="8.5" r="2.5"></circle>
+        <circle id="path-3" cx="2.5" cy="14.5" r="2.5"></circle>
+    </defs>
+    <g id="Builder-/-Setup---2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="List">
+            <g id="Group-2" transform="translate(3.000000, 4.000000)">
+                <g id="Group">
+                    <g id="Oval-6">
+                        <use fill="#B0F6F8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke="#0CC8CC" stroke-width="1" cx="2.5" cy="2.5" r="2"></circle>
+                    </g>
+                    <g id="Oval-6-Copy">
+                        <use fill="#B0F6F8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <circle stroke="#0CC8CC" stroke-width="1" cx="2.5" cy="8.5" r="2"></circle>
+                    </g>
+                    <g id="Oval-6-Copy-2">
+                        <use fill="#B0F6F8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <circle stroke="#0CC8CC" stroke-width="1" cx="2.5" cy="14.5" r="2"></circle>
+                    </g>
+                </g>
+                <rect id="Rectangle-44" fill="#0CC8CC" x="6" y="2" width="17" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-44-Copy" fill="#0CC8CC" x="6" y="8" width="17" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-44-Copy-2" fill="#0CC8CC" x="6" y="14" width="17" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

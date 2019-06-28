@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="468px" viewBox="0 0 220 468" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Sidebar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Sidebar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9-Copy" transform="translate(1.000000, 0.000000)">
+            <g id="Group-3">
+                <circle id="Oval-4-Copy" fill="#C8D8DC" opacity="0.390513393" cx="22.5" cy="22.5" r="22.5"></circle>
+                <rect id="Rectangle-22-Copy-20" fill="#E4EDEF" opacity="0.504185268" x="59" y="26" width="154" height="7" rx="3.5"></rect>
+                <rect id="Rectangle-22-Copy-21" fill="#E4EDEF" opacity="0.504185268" x="59" y="41" width="154" height="7" rx="3.5"></rect>
+            </g>
+            <g id="Group-3-Copy" opacity="0.946763393" transform="translate(0.000000, 98.000000)">
+                <circle id="Oval-4-Copy" fill="#C8D8DC" opacity="0.390513393" cx="22.5" cy="22.5" r="22.5"></circle>
+                <rect id="Rectangle-22-Copy-20" fill="#E4EDEF" opacity="0.504185268" x="59" y="26" width="154" height="7" rx="3.5"></rect>
+                <rect id="Rectangle-22-Copy-21" fill="#E4EDEF" opacity="0.504185268" x="59" y="41" width="154" height="7" rx="3.5"></rect>
+            </g>
+            <g id="Group-3-Copy-2" opacity="0.842075893" transform="translate(0.000000, 196.000000)">
+                <circle id="Oval-4-Copy" fill="#C8D8DC" opacity="0.390513393" cx="22.5" cy="22.5" r="22.5"></circle>
+                <rect id="Rectangle-22-Copy-20" fill="#E4EDEF" opacity="0.504185268" x="59" y="26" width="154" height="7" rx="3.5"></rect>
+                <rect id="Rectangle-22-Copy-21" fill="#E4EDEF" opacity="0.504185268" x="59" y="41" width="154" height="7" rx="3.5"></rect>
+            </g>
+            <g id="Group-3-Copy-3" opacity="0.623939732" transform="translate(0.000000, 294.000000)">
+                <circle id="Oval-4-Copy" fill="#C8D8DC" opacity="0.390513393" cx="22.5" cy="22.5" r="22.5"></circle>
+                <rect id="Rectangle-22-Copy-20" fill="#E4EDEF" opacity="0.504185268" x="59" y="26" width="154" height="7" rx="3.5"></rect>
+                <rect id="Rectangle-22-Copy-21" fill="#E4EDEF" opacity="0.504185268" x="59" y="41" width="154" height="7" rx="3.5"></rect>
+            </g>
+            <g id="Group-3-Copy-4" opacity="0.740959821" transform="translate(0.000000, 392.000000)">
+                <circle id="Oval-4-Copy" fill="#C8D8DC" opacity="0.390513393" cx="22.5" cy="22.5" r="22.5"></circle>
+                <rect id="Rectangle-22-Copy-20" fill="#E4EDEF" opacity="0.504185268" x="59" y="26" width="154" height="7" rx="3.5"></rect>
+                <rect id="Rectangle-22-Copy-21" fill="#E4EDEF" opacity="0.504185268" x="59" y="41" width="154" height="7" rx="3.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

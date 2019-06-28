@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>SMS</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="23.5781706%" y1="76.6911022%" x2="98.2469145%" y2="22.0722806%" id="linearGradient-1">
+            <stop stop-color="#4063B0" offset="0%"></stop>
+            <stop stop-color="#3F7BE1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="SDK-/-Publicações" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SMS">
+            <path d="M42.5086014,24.3138067 C41.6168564,29.1492221 37.8992341,39.8339641 22.4007616,45 C22.4007616,45 23.487114,43.4529607 24.0502059,40.8139676 C23.5183441,40.8556507 22.9808272,40.8768861 22.438443,40.8768861 C11.1685823,40.8768861 2,31.7083038 2,20.438443 C2,9.16858229 11.1685823,0 22.438443,0 C33.7085438,0 42.8771261,9.16858229 42.8771261,20.438443 C42.8771261,21.7630861 42.7504593,23.0586993 42.5086014,24.3138067 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <text font-family="AvenirNext-DemiBold, Avenir Next" font-size="12" font-weight="500" fill="#FFFFFF">
+                <tspan x="10" y="25">SMS</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

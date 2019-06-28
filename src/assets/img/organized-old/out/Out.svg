@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Out</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="log-out-copy" transform="translate(1.000000, 1.000000)" fill="#8FAFB5" fill-rule="nonzero">
+            <path d="M15.8011389,6.82764488 L13.1688213,4.17285371 C12.905595,3.90738003 12,3.90738003 12,4.46015435 L12,10.5384076 C12,11.0931744 12.905595,11.0931744 13.1688213,10.825672 L15.8011389,8.17283712 C16.066287,7.90540717 16.066287,7.09311856 15.8011389,6.82764488 Z" id="Shape"></path>
+            <path d="M7.99997143,0 L1.99999286,0 L0,0 L0,2 L0,2.93748214 L0,10.6875 L0,12 L5.99997857,16 L5.99997857,14 L7.99997143,14 C9.10344963,14 10,13.1035179 10,12 L10,2 C10.0000179,0.894535714 9.10343177,0 7.99997143,0 Z M7.99922143,12.0000357 L5.99922857,12.0000357 L5.99922857,4.00003571 L2.99923929,2 L7.99922143,2 L7.99922143,12.0000357 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="512px" height="512px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path transform="scale(1, -1) translate(0, -512)" glyph-name="favorite-on" unicode="&#68;" d="M504 277l-104-101 24-143c2-10-2-21-11-27-4-3-10-5-16-5-4 0-9 1-13 3l-128 68-128-68c-10-5-21-4-29 2-9 6-13 17-11 27l24 143-104 101c-7 8-10 19-7 29 4 10 12 17 23 18l143 21 64 130c5 10 15 16 25 16 10 0 20-6 25-16l64-130 144-21c10-1 18-8 22-18 3-10 0-21-7-29z"/>
+</svg>
