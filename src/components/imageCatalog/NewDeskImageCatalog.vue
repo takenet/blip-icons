@@ -16,7 +16,7 @@
 import { importAll } from '@/utils/functions';
 import SvgContainer from './SvgContainer.vue';
 
-const deskSvgFiles = importAll(require.context('../../assets/img/organized-new/desk/3-compressed', true, /\.svg$/));
+const deskSvgFiles = importAll(require.context('../../assets/img/organized-new/desk/all', true, /\.svg$/));
 const svgLibrary = [
   ...new Set(deskSvgFiles),
 ];
